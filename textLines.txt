@@ -1,0 +1,38 @@
+hi:
+hello :]
+hello!
+hello, {name of person greeting}!
+hi :]
+hi!
+hi, {name of person greeting}!
+
+begin cleaning:
+hello! I am here to clean up the chat :]
+I'm going to clean the chat now :]
+Starting cleaning process!
+It's time for me to clean!
+
+cleaning:
+room vroom
+spins around
+let me clean up this dust for you :]
+(runs into a wall) AAAAAAAAAAA
+(bumps into a chair) aaaaaaaAAAAAAAAAA
+(hits a door) OW! ow ow ow ow ow
+(bumps into a wall) AAGH! not AGAIN
+beep beep!
+coming through!
+excuse me! 
+
+stuck:
+Oh no! I'm trapped under this table :[ please use {command} to get me out!
+Uh oh! I'm stuck in this corner. Can you please get me out with {command}?
+spin spin spin spin spin I can't spin my way out of here! Can someone help me by using {command}?
+
+post stuck:
+Thanks!
+Thank you :]
+
+finished cleaning:
+All done cleaning!
+I'm finished cleaning :]
